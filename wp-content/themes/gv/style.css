@@ -8,7 +8,7 @@ Template:       twentytwentythree
 */
 
 
-p, h1 {
+p, {
   font-family: "Sedan", serif;
   font-weight: 400;
   font-style: normal;
@@ -24,4 +24,15 @@ body {
 
 header {
 	background-color: blueviolet;
+	padding-top: 24px;
 }
+
+h1 {
+	display:none;
+}
+
+
+a {
+	color: white;
+}
+
