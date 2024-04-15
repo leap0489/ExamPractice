@@ -1,0 +1,46 @@
+/*
+Theme Name:     OddJobs
+Description:    Practice for UX221 Final
+Author:         admin
+Template:       astra
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+
+:root{
+	--primary-blue: #294272;
+	--background: white;
+	--hover-link-btn: #CCDDFF;
+	--text: #243F72;
+	--font-fam: "Inter", sans-serif;
+	
+}
+
+h1, h2, h3 {
+	color: var(--primary-blue);
+	background-color: var(--background);
+}
+
+p {
+  font-family: var(--font-fam);
+  font-weight: 500;
+  font-style: normal;
+	color: var(--text);
+	background-color: var(--background);
+
+}
+
+
+.mainbutton {
+	padding: 16px;
+	background-color: var(--primary-blue);
+	color: white;
+	margin:0px, 16px;
+	border-radius: 8px;
+}
+
+.mainbutton:hover {
+	color: var(--hover-link-btn)
+}
+
