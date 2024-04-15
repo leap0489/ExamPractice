@@ -21,3 +21,7 @@ body {
 .wp-block-button .button {
 	color: blue;
 }
+
+header {
+	background-color: blueviolet;
+}
