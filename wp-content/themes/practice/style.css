@@ -6,3 +6,23 @@ Template:       astra
 
 (optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
+
+
+h1, h2 {
+	color: blue;
+}
+
+.wp-block-heading{ color: blue;}
+
+h1 {
+  	font-family: "Sedan", serif;
+  	font-weight: 400;
+  	font-style: normal;
+	padding: 24px;
+	background-color: beige;
+	border-radius: 8px;
+}
+
+body {
+	background-color: yellow;
+}
