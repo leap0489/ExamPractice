@@ -15,7 +15,7 @@ p, {
 }
 
 body {
-	background-color:pink;
+	background-color: white;
 }
 
 .wp-block-button .button {
@@ -23,7 +23,7 @@ body {
 }
 
 header {
-	background-color: blueviolet;
+	background-color: white;
 	padding-top: 24px;
 }
 
@@ -34,5 +34,9 @@ h1 {
 
 a {
 	color: white;
+}
+
+h2 {
+	color:darkgreen;
 }
 
